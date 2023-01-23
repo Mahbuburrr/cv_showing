@@ -1,0 +1,107 @@
+.container{
+
+    width: 70%;
+}
+h4{
+
+    color: rgb(51, 133, 255);
+}
+
+.image{
+
+    float: right;
+}
+.bg{
+
+    background-color: rgb(170, 184, 184);
+    color: black;
+    font-size: 20px;
+    text-decoration: underline;
+}
+th,td{
+
+    border: solid 1px black;
+    text-align: center;
+}
+.t{
+
+    margin-left: 20px;
+}
+
+/* personal details style */
+span{
+
+    font-weight: 800;
+}
+.space{
+
+    margin-left: 20px;
+}
+.pace{
+
+    margin-left: 90px;  
+}
+.pace1{
+
+    margin-left: 81px;  
+}
+.pace2{
+
+    margin-left: 100px;  
+}
+.pace3{
+
+    margin-left: 140px;  
+}
+
+.pace4{
+
+    margin-left: 95px;  
+}
+
+.pace5{
+
+    margin-left: 115px;  
+}
+
+.pace6{
+
+    margin-left: 92px;  
+}
+.pace7{
+
+    margin-left: 135px;  
+}
+.pace8{
+
+    margin-left: 55px;  
+}
+
+.pace9{
+
+    margin-left: 142px;  
+}
+
+.pace10{
+
+    margin-left: 136px;  
+}
+.pace11{
+
+    margin-left: 100px;  
+}
+.pace12{
+
+    margin-left: 127px;  
+}
+.pace13{
+
+    margin-left: 73px;  
+}
+
+/* p1 style */
+p1{
+
+    font-weight: 600;
+    text-decoration: underline;
+}
